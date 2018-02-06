@@ -38,4 +38,18 @@ Set the JAVA_HOME environment variable to point to the base directory location w
 OS	Output
 Windows	Set Environmental variable JAVA_HOME to C:\ProgramFiles\java\jdk1.7.0_60
 Linux	export JAVA_HOME=/usr/local/java-current
+
+
+hfkjkdklf
+dfg
+d
+
+d
+df
+
+
+r
+ty
+
+rtt
 Append the full path of the Java compiler location to the System Path.
