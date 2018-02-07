@@ -22,10 +22,7 @@ OS	Output
 Windows	Set Environmental variable JAVA_HOME to C:\ProgramFiles\java\jdk1.7.0_60
 Linux	export JAVA_HOME=/usr/local/java-current
 oijdglkdjg
-h
-rthtrty
-tyuhhghkyu
-uy
+
 The second way is to manage the Post-Receive URLs yourself:
 github repository administration
 Go to your Jenkins instances root page.
