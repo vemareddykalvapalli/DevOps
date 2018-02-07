@@ -4,13 +4,6 @@ Jenkins – Tomcat Setup
 Advertisements
  Previous Page Next Page  
 The following prerequisites must be met for Jenkins Tomcat setup.
-
-Step 1: Verifying Java Installation
-To verify Java installation, open the console and execute the following java command.
-OS	Output
-Windows	
-Java version "1.7.0_60"
-
 Java (TM) SE Run Time Environment (build 1.7.0_60-b19)
 
 Java Hotspot (TM) 64-bit Server VM (build 24.60-b09, mixed mode)
