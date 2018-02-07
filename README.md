@@ -18,11 +18,6 @@ In case you do not have Java JDK, you can download it from the link Oracle
 Step 2: Verifying Java Installation
 Set the JAVA_HOME environment variable to point to the base directory location where Java is installed on your machine. For example,
 
-OS	Output
-Windows	Set Environmental variable JAVA_HOME to C:\ProgramFiles\java\jdk1.7.0_60
-Linux	export JAVA_HOME=/usr/local/java-current
-oijdglkdjg
-
 The second way is to manage the Post-Receive URLs yourself:
 github repository administration
 Go to your Jenkins instances root page.
