@@ -35,6 +35,4 @@ Select the Service Hooks tab.
 Select the Post-Receive URLs hook.
 Add the URL, which will be the root URL of your Jenkins instance with /github-webhook appended.
 Jenkins instanceOnce you have configured your Jenkins instance for receiving the push notifications, you can enable jobs being triggered via the push notifications:
-Goto your Jenkins instance job.
-Select the Configure link on the left hand side of the screen.
-Select the Build when a change is pushed to GitHub checkbox and save the configuration.
+
