@@ -26,3 +26,18 @@ h
 rthtrty
 tyuhhghkyu
 uy
+The second way is to manage the Post-Receive URLs yourself:
+github repository administration
+Go to your Jenkins instances root page.
+If your Jenkins instance has security enabled, login as a user who has the Overall | Administer permission.
+Select the Manage Jenkins link on the left hand side of the screen.
+Select the Configure System link.
+In the GitHub Web Hook section select the Manually manage hook URLs option.
+For each project that you want to have triggering builds, you need to open the Repository Administration screen on that GitHub project's page.
+Select the Service Hooks tab.
+Select the Post-Receive URLs hook.
+Add the URL, which will be the root URL of your Jenkins instance with /github-webhook appended.
+Jenkins instanceOnce you have configured your Jenkins instance for receiving the push notifications, you can enable jobs being triggered via the push notifications:
+Goto your Jenkins instance job.
+Select the Configure link on the left hand side of the screen.
+Select the Build when a change is pushed to GitHub checkbox and save the configuration.
