@@ -7,11 +7,7 @@ The following prerequisites must be met for Jenkins Tomcat setup.
 Java (TM) SE Run Time Environment (build 1.7.0_60-b19)
 
 Java Hotspot (TM) 64-bit Server VM (build 24.60-b09, mixed mode)
-
-Linux	
-java version "1.7.0_25"
-
-Open JDK Runtime Environment (rhel-2.3.10.4.el6_4-x86_64)
+pen JDK Runtime Environment (rhel-2.3.10.4.el6_4-x86_64)
 
 Open JDK 64-Bit Server VM (build 23.7-b01, mixed mode)
 
